@@ -1,2 +1,2 @@
-# Ivermyh-README
-Making a profile README
+Studying at NTNU Gløshaugen
+https://github.com/RevolveNTNU
